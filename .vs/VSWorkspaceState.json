@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Release",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\Controllers\\TodoesController.cs",
+  "PreviewInSolutionExplorer": false
+}
